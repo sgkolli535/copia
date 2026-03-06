@@ -1,0 +1,19 @@
+{
+  "name": "copia",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "evals": "vitest run --project evals",
+    "dev": "pnpm --filter @copia/server dev & pnpm --filter @copia/frontend dev",
+    "lint": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3",
+    "vitest": "^1.2.0"
+  }
+}

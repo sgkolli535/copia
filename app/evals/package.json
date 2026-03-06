@@ -1,0 +1,12 @@
+{
+  "name": "@copia/evals",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@copia/types": "workspace:*",
+    "@copia/rule-engine": "workspace:*",
+    "@copia/data-service": "workspace:*",
+    "@copia/ai-layer": "workspace:*"
+  }
+}
