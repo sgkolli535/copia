@@ -104,7 +104,6 @@ packages/
   server/         Express API server bridging AI layer to frontend
   frontend/       Vite + React + Tailwind + Jotai (9 pages, progressive disclosure L0–L3)
 evals/            Vitest test suite + AI eval harness
-demo/             Mock server for API-key-free screen recording
 ```
 
 ## Testing
@@ -119,22 +118,6 @@ demo/             Mock server for API-key-free screen recording
 | Golden end-to-end scenarios | Full pipeline with expert-reviewed expected outputs | Regression gate |
 
 Golden personas: **Marcus Chen** (US citizen, UK 12yr resident, London flat + US brokerage, non-citizen spouse) and **Priya Sharma** (Indian NRI, UK 14yr resident, inherited Mumbai property, deemed-domicile timing window).
-
-## Quick Start
-
-```bash
-# Install
-pnpm install
-
-# Run tests
-pnpm test
-
-# Development (requires ANTHROPIC_API_KEY in .env)
-pnpm dev
-
-# Demo mode (no API key needed — hardcoded AI responses)
-./demo/start.sh
-```
 
 ## Tech Stack
 
