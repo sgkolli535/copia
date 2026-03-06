@@ -2,9 +2,11 @@
 
 **Cross-jurisdiction wealth & estate intelligence.**
 
-Copia is an AI-native tool that helps internationally mobile individuals understand their tax obligations, inheritance exposure, and estate planning options across multiple countries simultaneously. It extends into cross-border capital mobility: what you can actually *do* with money in a foreign jurisdiction, what it costs, and what you need to file.
+Copia is an AI-native and MCP tool that helps internationally mobile individuals understand their tax obligations, inheritance exposure, and estate planning options across multiple countries simultaneously. It extends into cross-border capital mobility: what you can actually *do* with money in a foreign jurisdiction, what it costs, and what you need to file.
 
 ## Demo
+
+[![Copia Demo](https://img.youtube.com/vi/XwQ56j2dOQ0/maxresdefault.jpg)](https://youtu.be/XwQ56j2dOQ0)
 
 ## Architecture
 
