@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+  "include": ["src"],
+  "references": [
+    { "path": "../types" },
+    { "path": "../ai-layer" },
+    { "path": "../mcp-server" },
+    { "path": "../rule-engine" },
+    { "path": "../data-service" }
+  ]
+}
