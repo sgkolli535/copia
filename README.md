@@ -7,6 +7,7 @@ Copia is an AI-native and MCP tool that helps internationally mobile individuals
 ## Demo
 
 [![Copia Demo](https://img.youtube.com/vi/XwQ56j2dOQ0/maxresdefault.jpg)](https://youtu.be/XwQ56j2dOQ0)
+**Click to Watch the Demo**
 
 ## Architecture
 
